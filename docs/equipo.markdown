@@ -9,5 +9,6 @@ title: "Equipo"
 </div>
 <div style="clear: right;">
     <p style="float: right;"><img src="\docs\assets\francisca-foto-perfil.png" height="110px" width="110px" border="2px"></p>
-    <p>Francisca Gómez Baeza</p>
+    <p>Francisca Gomez-Baeza es psicóloga por la Universidad de Chile, magíster en políticas públicas por la Facultad de Economía de la misma universidad, magíster en sociología por la Universidad de Washington Seattle (UW) y estudiante de doctorado en sociología por la misma universidad. Sus temas de investigación son criminalización y tecnologías de control social. Actualmente investiga los orígenes, transformaciones y usos de datos en el sistema de justicia criminal. 
+</p>
 </div>
