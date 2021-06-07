@@ -1,18 +1,10 @@
 ---
 layout: page
 title: Sobre el proyecto
-# permalink: /about/
 ---
+Gobiernos Algorítmicos es un proyecto colectivo que busca generar tanto investigación como corriente de opinión.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Investigación: {datos, datos abiertos, datos y sistemas de salud, datos y educación, datos e investigación, infraestructuras digitales,  extractivismo de datos}
+Opinión: {ciudadanía digital, políticas públicas}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Nuestra misión es un trabajo en proceso por lo cual esta página cambiará a menudo en los sigueinetes meses.
