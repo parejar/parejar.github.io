@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Call for Special Theme Proposals for Big Data & Society"
+author: Gobiernos Algorítmicos
+date:   2021-06-07 11:43:00 -0400
+---
+The SAGE open access journal Big Data & Society (BD&S) is soliciting proposals for a Special Theme to be published in 2022/23. BD&S is indexed by Clarivate Analytics with a 2019 journal impact factor of 4.577. BD&S is a peer-reviewed, interdisciplinary, scholarly journal that publishes research about the emerging field of Big Data practices and how they are reconfiguring academic, social, industry, business and government relations, expertise, methods, concepts and knowledge. BD&S moves beyond usual notions of Big Data and treats it as an emerging field of practices that is not defined by but generative of (sometimes) novel data qualities such as high volume and granularity and complex analytics such as data linking and mining. It thus attends to digital content generated through online and offline practices in social, commercial, scientific, and government domains. This includes, for instance, content generated on the Internet through social media and search engines but also that which is generated in closed networks (commercial or government transactions) and open networks such as digital archives, open government and crowd-sourced data. Critically, rather than settling on a definition the Journal makes this an object of interdisciplinary inquiries and debates explored through studies of a variety of topics and themes.
+
+[Llamada](https://bigdatasoc.blogspot.com/2021/06/call-for-special-theme-proposals-for.html)
