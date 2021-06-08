@@ -1,8 +1,8 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: principal
 ---
 <!-- HTML elements for search -->
 <input type="text" id="search-input" placeholder="Search blog posts..">
