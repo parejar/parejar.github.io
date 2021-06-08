@@ -37,8 +37,9 @@ Los investigadores en esas instituciones producen investigación con datos sacad
 
 ### Referencias
 
-Dib, Firas. s/f. “Regex101: Build, Test, and Debug Regex”. Regex101. Consultado el 30 de mayo de 2021. https://regex101.com/.
-“Expresión regular”. 2021. En Wikipedia, la enciclopedia libre. [regex 101](https://es.wikipedia.org/w/index.php?title=Expresi%C3%B3n_regular&oldid=134224430).
+Dib, Firas. s/f. “Regex101: Build, Test, and Debug Regex”. Regex101. Consultado el 30 de mayo de 2021. [regex 101](https://regex101.com).
+
+“Expresión regular”. 2021. En Wikipedia, la enciclopedia libre. [expresión regular](https://es.wikipedia.org/w/index.php?title=Expresi%C3%B3n_regular&oldid=134224430).
 
 Fitzgerald, Michael. 2012. Introducing Regular Expressions : Unraveling Regular Expressions, Step-by-Step. Sebastopol, CA: O’Reilly Media.
 “OpenRefine”. s/f. Consultado el 10 de mayo de 2020. [openrefine](https://openrefine.org/).
