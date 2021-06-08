@@ -30,7 +30,6 @@ github_username: parejar
 theme: minima
 plugins:
   - jekyll-feed
-  - SimpleJekyllSearch
 markdown: kramdown
 # Exclude from processing.
 # The following items will not be processed, by default.
