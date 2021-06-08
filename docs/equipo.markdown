@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Equipo"
 ---
 
@@ -7,7 +6,6 @@ title: "Equipo"
 <div style="clear: right;">
     <p style="float: right;"><img src="\assets\mario-foto-perfil.jpg" height="110px" width="110px" border="2px"></p>
     <p>Mario Portugal-Ramírez es sociólogo por la Universidad Autónoma Gabriel René Moreno (Bolivia), magíster en sociología por la Facultad Latinoamericana de Ciencias Sociales (FLACSO) Ecuador y candidato a doctor por la Universidad de Massachusetts Boston. Sus temas de investigación son salud digital y salud global. En la actualidad investiga sobre la implementación de Records Médicos Electrónicos en los sistemas de salud.</p>
-    <p>Correo-e: mariosiddhartha@yahoo.com<p>
 </div>
 <div style="clear: right;">
     <p style="float: right;"><img src="\assets\francisca-foto-perfil.png" height="110px" width="110px" border="2px"></p>
