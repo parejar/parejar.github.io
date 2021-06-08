@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Sobre el proyecto
 ---
 Gobiernos Algorítmicos es un proyecto colectivo que busca generar tanto investigación como corriente de opinión.
