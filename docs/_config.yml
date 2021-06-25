@@ -44,6 +44,10 @@ defaults:
       is_post: false
       layout: default
 
+collections:
+  tags:
+    output: true
+    permalink: tags/:path/
 
 # Build settings
 theme: minima

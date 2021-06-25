@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "Expresiones regulares"
 author: Roberto Pareja
 date:   2021-05-21 16:12:00 -0400
+tags: destacado leccion
 visible: 1
 ---
 Las expresiones regulares consisten de cadenas de caracteres que, encodados de una forma específica, se usan para capturar determinados conjuntos de caracteres. Esta definición de Fitzgerald es muy precisa y permite de partida ver los usos de una tal herramienta, por ejemplo, en la descripción lingüística, desde los años 40, o en la programación de aplicativos de edición de textos, a partir de los años 70 del siglo pasado (Fitzgerald 2012, 1). Una definición más sintética sería 

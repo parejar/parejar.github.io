@@ -1,10 +1,12 @@
 ---
-layout: post
 title:  "Datos sobre salud"
 author: Mario Siddharta Portugal
-date:   2021-05-26 16:12:00 -0400
+date: 2021-05-26 16:12:00 -0400
+tags: leccion
 visible: 1
 ---
-Los indicadores de salud ....
-[GHS index](https://www.ghsindex.org/)
+### Los indicadores de salud de [GHS index](https://www.ghsindex.org/)
+
+Para el caso de ... 
+
 ![grafico](\assets\grafico-bolivia.jpg)

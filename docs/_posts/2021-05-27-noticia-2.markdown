@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "TICAL y el Encuentro de e-Ciencia"
 author: Gobiernos Algorítmicos
 date:   2021-05-26 16:12:00 -0400
+tags: destacado
 ---
 TICAL y “e-Ciencia” se llevarán a cabo nuevamente en formato virtual y gratuito, entre
 los días 30 de agosto y 2 de septiembre, con la participación confirmada de expertos

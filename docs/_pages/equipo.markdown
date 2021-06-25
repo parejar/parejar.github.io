@@ -1,5 +1,6 @@
 ---
 title: "Equipo"
+permalink: /equipo/
 ---
 
 <div>
@@ -15,3 +16,13 @@ title: "Equipo"
     <p style="float: right;"><img src="\assets\roberto-foto-perfil.jpg" height="110px" width="110px" border="2px"></p>
     <p>Roberto Pareja es doctor en Literatura Latinoamericana y Estudios Culturales por la Universidad de Georgetown en Washington DC, Estados Unidos, y magíster en Information Studies por la Universidad de McGill en Montreal, Canadá. Su trabajo como investigador en las Humanidades y Humanidades Digitales se concentra en la historia intelectual y el estudio de las redes de actores en la conformación de mediaciones político-culturales en América Latina desde una perspectiva global. Forma parte del proyecto de historia social Lima Andina en Toronto y del colectivo interinstitucional Médiation éditoriale, diffusion et traduction de la littérature latino-américaine en France, de 1945 à 2000 (MEDET-LAT) en París, para los cuales diseñó las bases de datos. Actualmente sigue colaborando con tanto con MEDET-LAT como con Lima Andina en la implementación de un interfaz de búsqueda con múltiples criterios dirigido a un público tanto académico como general para dar acceso a los datos del proyecto. Su trabajo más reciente estudia la mediación editorial de la literatura boliviana a nivel global usando datos de diversos repositorios.</p>
 </div>
+
+<ul>
+{% for member in site.data.members %}
+  <li>
+    <a>
+        Contacto: {{ member.name }} -- {{ member.email}}
+    </a>
+  </li>
+{% endfor %}
+</ul>
