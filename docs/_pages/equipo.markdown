@@ -42,7 +42,9 @@ permalink: /equipo/
 {% for member in site.data.members %}
     {% if member.name contains "Roberto" %}
   <li>
-    <a href="{{ member.email }}">{{ member.email }}</a>
+    <p>
+      {{ member.email }}
+    </p>
   </li>
     {% endif %}
 {% endfor %}
