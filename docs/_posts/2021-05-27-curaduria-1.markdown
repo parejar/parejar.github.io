@@ -1,9 +1,10 @@
 ---
-title:  "Expresiones regulares"
+layout: post
+title:  "Expresiones regulares: una herramienta para la ciudadanía digital"
 author: Roberto Pareja
-date:   2021-05-21 16:12:00 -0400
-tags: destacado leccion
+date: 2021-05-21 16:12:00 -0400
 visible: 1
+image: \assets\images\image-leccion-1.jpg
 ---
 Las expresiones regulares consisten de cadenas de caracteres que, encodados de una forma específica, se usan para capturar determinados conjuntos de caracteres. Esta definición de Fitzgerald es muy precisa y permite de partida ver los usos de una tal herramienta, por ejemplo, en la descripción lingüística, desde los años 40, o en la programación de aplicativos de edición de textos, a partir de los años 70 del siglo pasado (Fitzgerald 2012, 1). Una definición más sintética sería 
 
@@ -18,7 +19,7 @@ En esta breve lección propongo seguir una serie de ejemplos y probar dos herram
 
 En este contexto, la base de datos de la Modern Language Association es el caso de una base de datos propietaria que vende sus datos bibliográficos a las instituciones de enseñanza superior en Estados Unidos donde los datos se procesan de diversas maneras. De esa forma, algunos de los datos de la MLA terminan en dominio público a través de publicaciones académicas, pero muy raramente se ponen a disposición los datos mismos luego de su procesamiento-enriquecimiento. 
 
-![Ejemplo](\assets\Saenz_Datos_Regex.jpg)
+![Ejemplo](\assets\images\image-leccion-1.jpg)
 
 El valor agregado que se produce a través de la investigación u otras actividades intelectuales y artísticas no es necesariamente económico o cuantitativo, sino que redunda en prestigio, influencia, redes. Pero ¿cómo se produce en concreto ese valor agregado? 
 
