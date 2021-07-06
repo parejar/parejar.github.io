@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Gobiernos Algorítmicos
+title: Ecologías Digitales
 email: politica.pareja@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Grupo de estudio y comunidad de prácticas sobre ciudadanía digital
