@@ -1,4 +1,5 @@
 ---
 layout: home
 ---
-Bienvenidos a **Gobiernos Algorítmicos**. Éstos son algunos posteos y noticias destacados:
+
+Bienvenidos a **Ecologías Digitales**. Éstos son algunos posteos y noticias destacados:

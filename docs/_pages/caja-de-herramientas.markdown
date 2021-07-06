@@ -1,4 +1,5 @@
 ---
+layout: page
 title:  "Caja de herramientas"
 permalink: /caja-de-herramientas/
 ---
@@ -10,13 +11,17 @@ permalink: /caja-de-herramientas/
   <div class="post">
     <h1>
       <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
+        {{ post.title }}      </a>
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
         <a class="subtitle" href="{{ post.url }}">
-      </a>
+        </a>
+    {%- if post.author -%}
+    • <span class="post.author"> {{ post.author }}
+    </span>
+    {% endif %}
+      
   </div>
   {% endif %}
   {% endfor %}
