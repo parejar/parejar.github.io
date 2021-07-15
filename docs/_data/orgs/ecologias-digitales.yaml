@@ -1,0 +1,22 @@
+name: Ecologías Digitales
+github: Proyecto-Ecologias-Digitales
+
+members:
+- name: 'Francisca Gómez-Baeza'
+  bio: 'Psicóloga por la Universidad de Chile, magíster en políticas públicas por la Facultad de Economía de la misma universidad, magíster en sociología por la Universidad de Washington Seattle (UW) y estudiante de doctorado en sociología por la misma universidad.'
+  topics: 'Criminalización y tecnologías de control social. Actualmente investiga los orígenes, transformaciones y usos de datos en el sistema de justicia criminal.'
+  e-mail: 'fgomezbaeza@gmail.com'
+  image: \assets\images\francisca-foto-perfil.png
+- name: 'Mario Portugal-Ramírez'
+  bio: 'Sociólogo por la Universidad Autónoma Gabriel René Moreno (Bolivia), magíster en sociología por la Facultad Latinoamericana de Ciencias Sociales (FLACSO) Ecuador y candidato a doctor por la Universidad de Massachusetts Boston.'
+  topics: 'Salud digital y salud global. En la actualidad investiga sobre la implementación de Records Médicos Electrónicos en los sistemas de salud.'
+  e-mail: 'mariosiddhartha@yahoo.com'
+  image: \assets\images\mario-foto-perfil.jpg
+- name: 'Roberto Pareja'
+  bio: 'Doctor en Literatura Latinoamericana y Estudios Culturales por la Universidad de Georgetown en Washington DC, Estados Unidos, y magíster en Information Studies por la Universidad de McGill en Montreal, Canadá.'
+  topics: 'Historia intelectual y redes de actores en la conformación de mediaciones político-culturales en América Latina desde una perspectiva global. Forma parte del proyecto de historia social Lima Andina en Toronto y del colectivo interinstitucional Médiation éditoriale, diffusion et traduction de la littérature latino-américaine en France, de 1945 à 2000 (MEDET-LAT) en París, para los cuales diseñó las bases de datos. Su trabajo más reciente estudia la mediación editorial de la literatura boliviana a nivel global usando datos de diversos repositorios.'
+  e-mail: 'politica.pareja@gmail.com'
+  image: \assets\images\roberto-foto-perfil.bmp
+  links:
+  - link: 'https://limandina.org/'
+  - link: 'https://www.projet-medetlat.com/'
